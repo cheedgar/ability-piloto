@@ -1,0 +1,24 @@
+{
+  "name": "Ability | Administración V6.3",
+  "short_name": "Ability",
+  "description": "Administración comercial y cotizaciones de eventos",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f6fc",
+  "theme_color": "#284f9a",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
